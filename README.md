@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/evelingtorresf/evelingtorresf/blob/main/Banner%20de%20Linkedin%20para%20Copywriter%20Moderno%20Neutral.mp4" width="800"/>
+  <img decoding="async" src="https://github.com/evelingtorresf/evelingtorresf/blob/main/Banner%20de%20Linkedin%20para%20Copywriter%20Moderno%20Neutral.png" width="800"/>
 </div>
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eveling-andrea-torres-fern%C3%A1ndez-92b663159/)
 
