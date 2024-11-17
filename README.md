@@ -2,9 +2,9 @@
   <img decoding="async" src="https://github.com/evelingtorresf/evelingtorresf/blob/main/Banner%20de%20Linkedin%20para%20Copywriter%20Moderno%20Neutral.png" width="800"/>
 </div>
 
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:https://www.linkedin.com/in/eveling-andrea-torres-fernández-92b663159/)
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eveling-andrea-torres-fernández-92b663159/)
 
-  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)
+  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=evelingtorresf.evelingtorresf&color=00cf00" alt=""/>
