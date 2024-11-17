@@ -20,4 +20,4 @@ Soy una apasionada por las finanzas y la tecnología y disfrutando de una transi
 
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo y de interpretar y transmitir las historias que hay detrás de las cifras financieras.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eveling-andrea-torres-fernández-92b663159/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Eveling-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eveling-andrea-torres-fernández-92b663159/)
