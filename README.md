@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/evelingtorresf/evelingtorresf/blob/main/Banner%20de%20Linkedin%20para%20Copywriter%20Moderno%20Neutral.png" width="800"/>
 </div>
-  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@evelingtorres1797)
+
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)
 
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=evelingtorresf.evelingtorresf&color=00cf00" alt=""/>
