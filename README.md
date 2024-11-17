@@ -22,3 +22,15 @@ Soy una apasionada por las finanzas y la tecnología y disfrutando de una transi
 * :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo y de interpretar y transmitir las historias que hay detrás de las cifras financieras.
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Eveling-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eveling-andrea-torres-fernández-92b663159/)
+* ---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+  </a>
+
+</div>
