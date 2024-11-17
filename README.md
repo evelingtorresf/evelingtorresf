@@ -32,5 +32,3 @@ Soy una apasionada por las finanzas y la tecnología y disfrutando de una transi
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=evelingtorresf91&theme=dark&background=000000)](https://git.io/streak-stats)
